@@ -61,7 +61,10 @@
 Бонус: Не используйте готовые библиотеки для работы с FTP (например, ftplib для Python), а реализуйте решение на сокетах **(+3 балла)**.
 
 #### Демонстрация работы
-todo
+- ![alt-text](images/ls.png)
+- ![alt-text](images/upload.png)
+- ![alt-text](images/download1.png)
+- ![alt-text](images/download2.png)
 
 ### GUI FTP клиент (4 балла)
 Реализуйте приложение FTP клиента с графическим интерфейсом. НЕ используйте C#.
