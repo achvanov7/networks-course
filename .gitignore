@@ -19,3 +19,5 @@ target/
 *.out
 go.work
 .DS_store
+*.cmake
+*.make
